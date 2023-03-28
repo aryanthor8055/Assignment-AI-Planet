@@ -1,0 +1,13 @@
+.Banner {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 416px;
+    background-color: #003145;
+    flex-direction: column;
+    background-image: url('../../assets/waves.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+
+}
